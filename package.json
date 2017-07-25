@@ -1,0 +1,25 @@
+{
+  "name": "mofron-comp-feature",
+  "version": "0.0.2",
+  "description": "feture component for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-comp-feature.git"
+  },
+  "dependencies": {
+    "mofron-comp-iconawesome" : ""
+  },
+  "keywords": [
+    "mofron"
+  ],
+  "author": "simparts",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-comp-feature/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-comp-feature#readme"
+}
